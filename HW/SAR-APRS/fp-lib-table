@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name APRS_modules)(type KiCad)(uri C:/Users/MaxAli/Documents/GitHub/SAR-APRS/LIB/APRS_modules.pretty)(options "")(descr ""))
+)

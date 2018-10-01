@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Antenna
+D Antenna, Unbalanced
+$ENDCMP
+#
+$CMP Antenna-Balanced
+D Antenna, Balanced
+$ENDCMP
+#
+$CMP Capacitor
+D Capacitor, Non-polarized
+$ENDCMP
+#
+$CMP Capacitor-Polarized
+D Capacitor, Polarized
+$ENDCMP
+#
+$CMP Crystal
+D Crystal
+$ENDCMP
+#
+$CMP DPDT
+D Switch, Double pole, Double throw
+$ENDCMP
+#
+$CMP Ferrite
+D Ferrite bead
+$ENDCMP
+#
+$CMP Inductor
+D Inductor
+$ENDCMP
+#
+$CMP Inductor-Core
+D Inductor, Iron core
+$ENDCMP
+#
+$CMP PTC
+D PTC resettable fuse
+$ENDCMP
+#
+$CMP Resistor
+D Resistor, 2 terminal
+$ENDCMP
+#
+$CMP Resistor-Kelvin
+D Resistor, 4 terminal
+$ENDCMP
+#
+$CMP Solder-Bridge
+D Solder bridge
+$ENDCMP
+#
+$CMP Thermistor
+D Thermistor
+$ENDCMP
+#
+$CMP Varistor
+D Varistor
+$ENDCMP
+#
+#End Doc Library

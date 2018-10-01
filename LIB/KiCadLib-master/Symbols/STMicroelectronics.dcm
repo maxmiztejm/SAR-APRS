@@ -1,0 +1,50 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F415VET
+D MCU, 32-bit, ARM Cortex M4, FPU, Crypto, 100-pin, 512 Kbyte
+$ENDCMP
+#
+$CMP STM32F415VGT
+D MCU, 32-bit, ARM Cortex M4, FPU, Crypto, 100-pin, 1024 Kbyte
+$ENDCMP
+#
+$CMP STM32F417VET
+D MCU, 32-bit, ARM Cortex M4, FPU, Crypto, DCI, Ethernet, 100-pin, 512 Kbyte
+$ENDCMP
+#
+$CMP STM32F417VGT
+D MCU, 32-bit, ARM Cortex M4, FPU, Crypto, DCI, Ethernet, 100-pin, 1024 Kbyte
+K stm32, cortex
+$ENDCMP
+#
+$CMP STM32L151C6T
+D MCU, 32-bit, ARM Cortex-M3, Low power, 48-pin, 32 Kbyte
+K mcu, cortex
+$ENDCMP
+#
+$CMP STM32L151C8T
+D MCU, 32-bit, ARM Cortex-M3, Low power, 48-pin, 64 Kbyte
+K mcu, cortex
+$ENDCMP
+#
+$CMP STM32L151CBT
+D MCU, 32-bit, ARM Cortex-M3, Low power, 48-pin, 128 Kbyte
+K mcu, cortex
+$ENDCMP
+#
+$CMP STM32L152C6T
+D MCU, 32-bit, ARM Cortex-M3, Low power, LCD, 48-pin, 32 Kbyte
+K mcu, cortex
+$ENDCMP
+#
+$CMP STM32L152C8T
+D MCU, 32-bit, ARM Cortex-M3, Low power, LCD, 48-pin, 64 Kbyte
+K mcu, cortex
+$ENDCMP
+#
+$CMP STM32L152CBT
+D MCU, 32-bit, ARM Cortex-M3, Low power, LCD, 48-pin, 128 Kbyte
+K mcu, cortex
+$ENDCMP
+#
+#End Doc Library

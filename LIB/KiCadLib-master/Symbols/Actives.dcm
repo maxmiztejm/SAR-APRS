@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BJT-NPN
+D MOSFET, N-ch, Enhancement
+$ENDCMP
+#
+$CMP BJT-PNP
+D Transistor, PNP
+$ENDCMP
+#
+$CMP Battery
+D Battery, Single cell
+$ENDCMP
+#
+$CMP Diode
+D Diode
+$ENDCMP
+#
+$CMP Diode-Schottky
+D Diode, Schottky
+$ENDCMP
+#
+$CMP LED
+D LED
+$ENDCMP
+#
+$CMP MOSFET-N
+D MOSFET, N-ch, Enhancement
+$ENDCMP
+#
+$CMP MOSFET-N-Body
+D MOSFET, N-ch, Enhancement, Body diode
+$ENDCMP
+#
+$CMP MOSFET-P
+D MOSFET, P-ch, Enhancement
+$ENDCMP
+#
+$CMP Photodiode
+D Photodiode
+$ENDCMP
+#
+$CMP TVS
+D Transient voltage suppression diode
+$ENDCMP
+#
+$CMP VCXO
+D Voltage controlled oscillator, Tri-state output
+$ENDCMP
+#
+#End Doc Library
