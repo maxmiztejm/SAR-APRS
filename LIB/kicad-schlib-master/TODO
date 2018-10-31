@@ -1,0 +1,13 @@
+Add MURATA-{1200LRS,3200,786J,PV36P}
+Add OMRON-{G5T-1A,G5V-1}
+Add PANASONIC-EVEJB
+SMD polcaps don't have F2?
+Add FUSE-3AG-CLIPS, FUSE-5x20
+Add XTAL-HC49US
+Add D-BRIDGE-{GBU,KBU,WOG}
+Three DiodesInc libs?
+Three OnSemi libs?
+Three ST libs?
+Invalid template BOM lines to avoid accidents
+Remove or automate footprint filters (error-prone)
+Remove Documentation File Name
