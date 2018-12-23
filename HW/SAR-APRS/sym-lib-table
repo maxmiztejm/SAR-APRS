@@ -2,4 +2,5 @@
   (lib (name ArduProMiniTKB)(type Legacy)(uri C:/Users/MaxAli/Documents/GitHub/SAR-APRS/LIB/ArduProMiniTKB.lib)(options "")(descr ""))
   (lib (name Misc)(type Legacy)(uri C:/Users/MaxAli/Documents/GitHub/SAR-APRS/LIB/KiCadLib-master/Symbols/Misc.lib)(options "")(descr ""))
   (lib (name arduino)(type Legacy)(uri C:/Users/MaxAli/Documents/GitHub/SAR-APRS/LIB/arduino-kicad-library-master/arduino.lib)(options "")(descr ""))
+  (lib (name u-blox)(type Legacy)(uri C:/Users/MaxAli/Documents/GitHub/SAR-APRS/LIB/kicad-schlib-master/library/u-blox.lib)(options "")(descr ""))
 )
