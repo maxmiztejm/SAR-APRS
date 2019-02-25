@@ -4,7 +4,7 @@ EELAYER 28 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 4 6
+Sheet 6 6
 Title ""
 Date ""
 Rev ""
@@ -495,12 +495,6 @@ Wire Wire Line
 	8400 2425 3200 2425
 Wire Wire Line
 	8400 2425 8400 4675
-Text GLabel 3200 2425 0    50   Output ~ 0
-GPS_PPS
-Text GLabel 3200 3150 0    50   Input ~ 0
-GPS_RXD
-Text GLabel 3200 3050 0    50   Output ~ 0
-GPS_TXD
 Wire Wire Line
 	4325 4375 5950 4375
 Wire Wire Line
@@ -509,4 +503,10 @@ Wire Wire Line
 	4725 4475 4725 4275
 Wire Wire Line
 	4725 4275 5950 4275
+Text HLabel 3200 2425 0    50   Output ~ 0
+GPS_PPS
+Text HLabel 3200 3050 0    50   Output ~ 0
+GPS_TXD
+Text HLabel 3200 3150 0    50   Input ~ 0
+GPS_RXD
 $EndSCHEMATC

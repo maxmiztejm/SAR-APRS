@@ -501,20 +501,20 @@ Wire Wire Line
 	7125 5225 7125 4550
 Wire Wire Line
 	7125 4550 7550 4550
-Text GLabel 7550 4150 2    50   Input ~ 0
-RFMOD_MIC
 Wire Wire Line
 	6450 4450 7550 4450
 Wire Wire Line
 	6275 5225 7125 5225
 Connection ~ 6275 5225
-Text GLabel 7550 4250 2    50   Input ~ 0
-RFMOD_RXD
-Text GLabel 7550 4350 2    50   Input ~ 0
-RFMOD_TXD
-Text GLabel 7550 4450 2    50   Input ~ 0
-RFMOD_AUX
-Text GLabel 7550 4550 2    50   Input ~ 0
-RFMOD_PTT
 NoConn ~ 6525 3550
+Text HLabel 7550 4150 2    50   Input ~ 0
+RFMOD_MIC
+Text HLabel 7550 4250 2    50   Input ~ 0
+RFMOD_RXD
+Text HLabel 7550 4350 2    50   Output ~ 0
+RFMOD_TXD
+Text HLabel 7550 4450 2    50   Output ~ 0
+RFMOD_AUX
+Text HLabel 7550 4550 2    50   Input ~ 0
+RFMOD_PTT
 $EndSCHEMATC

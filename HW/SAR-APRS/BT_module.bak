@@ -4,7 +4,7 @@ EELAYER 28 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 6 6
+Sheet 5 6
 Title ""
 Date ""
 Rev ""
@@ -176,18 +176,19 @@ F 3 "~" H 6800 3100 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	4650 2975 7550 2975
-Text GLabel 4650 3100 0    50   Input ~ 0
-BT_CMD
 Wire Wire Line
 	4650 3100 6575 3100
-Text GLabel 4650 3625 0    50   Input ~ 0
-BT_TXD
-Text GLabel 4650 3725 0    50   Input ~ 0
-BT_RXD
 Wire Wire Line
 	4650 3625 5575 3625
 Wire Wire Line
 	4650 3725 5575 3725
-Text GLabel 4650 2975 0    50   Input ~ 0
+NoConn ~ 5575 3825
+Text HLabel 4650 2975 0    50   Input ~ 0
 BT_LED2
+Text HLabel 4650 3100 0    50   Input ~ 0
+BT_CMD
+Text HLabel 4650 3625 0    50   Output ~ 0
+BD_TXD
+Text HLabel 4650 3725 0    50   Input ~ 0
+BT_RXD
 $EndSCHEMATC
