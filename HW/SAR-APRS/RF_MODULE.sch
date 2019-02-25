@@ -516,4 +516,5 @@ Text GLabel 7550 4450 2    50   Input ~ 0
 RFMOD_AUX
 Text GLabel 7550 4550 2    50   Input ~ 0
 RFMOD_PTT
+NoConn ~ 6525 3550
 $EndSCHEMATC

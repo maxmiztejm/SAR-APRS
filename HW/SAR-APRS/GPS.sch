@@ -495,11 +495,11 @@ Wire Wire Line
 	8400 2425 3200 2425
 Wire Wire Line
 	8400 2425 8400 4675
-Text GLabel 3200 2425 0    50   Input ~ 0
+Text GLabel 3200 2425 0    50   Output ~ 0
 GPS_PPS
 Text GLabel 3200 3150 0    50   Input ~ 0
 GPS_RXD
-Text GLabel 3200 3050 0    50   Input ~ 0
+Text GLabel 3200 3050 0    50   Output ~ 0
 GPS_TXD
 Wire Wire Line
 	4325 4375 5950 4375

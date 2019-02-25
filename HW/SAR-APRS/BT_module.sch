@@ -190,4 +190,5 @@ Wire Wire Line
 	4650 3725 5575 3725
 Text GLabel 4650 2975 0    50   Input ~ 0
 BT_LED2
+NoConn ~ 5575 3825
 $EndSCHEMATC
