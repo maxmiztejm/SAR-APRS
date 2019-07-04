@@ -332,10 +332,10 @@
       (net 23 GND))
     (pad 1 thru_hole circle (at 0 0 180) (size 2.3 2.3) (drill 1.35) (layers *.Cu *.Mask F.SilkS)
       (net 22 "Net-(C3-Pad1)"))
-    (model walter/conn_rf/sma_straight_32k101-400l5.wrl
-      (at (xyz 0 0 0))
+    (model "${DENGSLIB}/3D_models/RF connectors/SMA-angled.STEP"
+      (offset (xyz 0 0 -4))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 180))
     )
   )
 
