@@ -1,28 +1,28 @@
 59017978868631
 Mlab_IO
 D2PAK-TO-263-2Lead
-D2PAK / TO-263 3-lead smd package
-D2PAK D2PAK-3 TO-263AB TO-263
+D2PAK{space}/{space}TO-263{space}3-lead{space}smd{space}package
+D2PAK{space}D2PAK-3{space}TO-263AB{space}TO-263
 0
 3
 3
 Mlab_IO
 DFN-8-1EP_2.4x2.4mm_Pitch0.5mm
-DFN8 2x2, 0.5mm pin
-DFN 0.5
+DFN8{space}2x2,{space}0.5mm{space}pin
+DFN{space}0.5
 0
 9
 9
 Mlab_IO
 DFN-12-1EP_3x4mm_Pitch0.5mm
-DE/UE Package; 12-Lead Plastic DFN (4mm x 3mm) (see Linear Technology DFN_12_05-08-1695.pdf)
-DFN 0.5
+DE/UE{space}Package;{space}12-Lead{space}Plastic{space}DFN{space}(4mm{space}x{space}3mm){space}(see{space}Linear{space}Technology{space}DFN_12_05-08-1695.pdf)
+DFN{space}0.5
 0
 20
 13
 Mlab_IO
 DPAK-TO-252-2Lead
-TO-252-2Lead DPAK
+TO-252-2Lead{space}DPAK
 
 0
 3
@@ -30,7 +30,7 @@ TO-252-2Lead DPAK
 Mlab_IO
 FN
 
- TCS37717
+{space}TCS37717
 0
 6
 6
@@ -43,8 +43,8 @@ HSOP-8
 9
 Mlab_IO
 HTQFP-64_10x10mm_Pitch0.5mm
-64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.5
+64-Lead{space}Plastic{space}Thin{space}Quad{space}Flatpack{space}(PT){space}-{space}10x10x1{space}mm{space}Body,{space}2.00{space}mm{space}Footprint{space}[TQFP]{space}(see{space}Microchip{space}Packaging{space}Specification{space}00000049BS.pdf)
+QFP{space}0.5
 0
 65
 65
@@ -58,28 +58,28 @@ HTSSOP28
 Mlab_IO
 LEON-G1
 
-GSM, LEON-G1
+GSM,{space}LEON-G1
 0
 50
 50
 Mlab_IO
 MSOP-8-1EP_3x3mm_Pitch0.65mm
-MS8E Package; 8-Lead Plastic MSOP, Exposed Die Pad (see Linear Technology 05081662_K_MS8E.pdf)
-SSOP 0.65
+MS8E{space}Package;{space}8-Lead{space}Plastic{space}MSOP,{space}Exposed{space}Die{space}Pad{space}(see{space}Linear{space}Technology{space}05081662_K_MS8E.pdf)
+SSOP{space}0.65
 0
 12
 9
 Mlab_IO
 MSOP-8_3x3mm_Pitch0.65mm
-8-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
+8-Lead{space}Plastic{space}Micro{space}Small{space}Outline{space}Package{space}(MS){space}[MSOP]{space}(see{space}Microchip{space}Packaging{space}Specification{space}00000049BS.pdf)
+SSOP{space}0.65
 0
 8
 8
 Mlab_IO
 POWERSO36
-36 LEADS POWER SMALL OUTLINE PACKAGE
-36 LEADS POWER SMALL OUTLINE PACKAGE
+36{space}LEADS{space}POWER{space}SMALL{space}OUTLINE{space}PACKAGE
+36{space}LEADS{space}POWER{space}SMALL{space}OUTLINE{space}PACKAGE
 0
 39
 39
@@ -92,50 +92,50 @@ PowerSSO-16
 17
 Mlab_IO
 QFN-16-1EP_4x4mm_Pitch0.65mm
-20-Lead Plastic Quad Flat, No Lead Package (MQ) - 5x5x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
-QFN 0.65
+20-Lead{space}Plastic{space}Quad{space}Flat,{space}No{space}Lead{space}Package{space}(MQ){space}-{space}5x5x0.9{space}mm{space}Body{space}[QFN];{space}(see{space}Microchip{space}Packaging{space}Specification{space}00000049BS.pdf)
+QFN{space}0.65
 0
 17
 17
 Mlab_IO
 QFN-20-1EP_5x5mm_Pitch0.65mm
-20-Lead Plastic Quad Flat, No Lead Package (MQ) - 5x5x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
-QFN 0.65
+20-Lead{space}Plastic{space}Quad{space}Flat,{space}No{space}Lead{space}Package{space}(MQ){space}-{space}5x5x0.9{space}mm{space}Body{space}[QFN];{space}(see{space}Microchip{space}Packaging{space}Specification{space}00000049BS.pdf)
+QFN{space}0.65
 0
 24
 21
 Mlab_IO
 QFN-64-1EP_9x9mm_Pitch0.5mm
-64-Lead Plastic Quad Flat, No Lead Package (MR) - 9x9x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
-QFN 0.5
+64-Lead{space}Plastic{space}Quad{space}Flat,{space}No{space}Lead{space}Package{space}(MR){space}-{space}9x9x0.9{space}mm{space}Body{space}[QFN];{space}(see{space}Microchip{space}Packaging{space}Specification{space}00000049BS.pdf)
+QFN{space}0.5
 0
 65
 65
 Mlab_IO
 SO-8
-SO-8 Surface Mount Small Outline 150mil 8pin Package
-Power Integrations D Package
+SO-8{space}Surface{space}Mount{space}Small{space}Outline{space}150mil{space}8pin{space}Package
+Power{space}Integrations{space}D{space}Package
 0
 8
 8
 Mlab_IO
 SO-14
-SO-8 Surface Mount Small Outline 150mil 8pin Package
-Power Integrations D Package
+SO-8{space}Surface{space}Mount{space}Small{space}Outline{space}150mil{space}8pin{space}Package
+Power{space}Integrations{space}D{space}Package
 0
 14
 14
 Mlab_IO
 SOIC-8_3.9x4.9mm_Pitch1.27mm
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
+8-Lead{space}Plastic{space}Small{space}Outline{space}(SN){space}-{space}Narrow,{space}3.90{space}mm{space}Body{space}[SOIC]{space}(see{space}Microchip{space}Packaging{space}Specification{space}00000049BS.pdf)
+SOIC{space}1.27
 0
 8
 8
 Mlab_IO
 SOIC-14
-Module CMS SOJ 14 pins Large
-CMS SOJ
+Module{space}CMS{space}SOJ{space}14{space}pins{space}Large
+CMS{space}SOJ
 0
 14
 14
@@ -148,15 +148,15 @@ SOIC-24
 24
 Mlab_IO
 SOIC-28
-Module CMS SOJ 28 pins large
-CMS SOJ
+Module{space}CMS{space}SOJ{space}28{space}pins{space}large
+CMS{space}SOJ
 0
 28
 28
 Mlab_IO
 SOP-8_EP_3.9x4.9mm_Pitch1.27mm
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
+8-Lead{space}Plastic{space}Small{space}Outline{space}(SN){space}-{space}Narrow,{space}3.90{space}mm{space}Body{space}[SOIC]{space}(see{space}Microchip{space}Packaging{space}Specification{space}00000049BS.pdf)
+SOIC{space}1.27
 0
 9
 9
@@ -176,8 +176,8 @@ SOT-23-6
 6
 Mlab_IO
 SOT-223
-module CMS SOT223 4 pins
-CMS SOT
+module{space}CMS{space}SOT223{space}4{space}pins
+CMS{space}SOT
 0
 4
 4
@@ -190,8 +190,8 @@ SOT553
 5
 Mlab_IO
 SSOP-20_5.3x7.2mm_Pitch0.65mm
-20-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
+20-Lead{space}Plastic{space}Shrink{space}Small{space}Outline{space}(SS)-5.30{space}mm{space}Body{space}[SSOP]{space}(see{space}Microchip{space}Packaging{space}Specification{space}00000049BS.pdf)
+SSOP{space}0.65
 0
 20
 20
@@ -204,29 +204,29 @@ TSOT-5
 5
 Mlab_IO
 TSSOP-8_4.4x3mm_Pitch0.65mm
-8-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
+8-Lead{space}Plastic{space}Thin{space}Shrink{space}Small{space}Outline{space}(ST)-4.4{space}mm{space}Body{space}[TSSOP]{space}(see{space}Microchip{space}Packaging{space}Specification{space}00000049BS.pdf)
+SSOP{space}0.65
 0
 8
 8
 Mlab_IO
 TSSOP-10_3x3mm_Pitch0.5mm
-TSSOP10: plastic thin shrink small outline package; 10 leads; body width 3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot552-1_po.pdf)
-SSOP 0.5
+TSSOP10:{space}plastic{space}thin{space}shrink{space}small{space}outline{space}package;{space}10{space}leads;{space}body{space}width{space}3{space}mm;{space}(see{space}NXP{space}SSOP-TSSOP-VSO-REFLOW.pdf{space}and{space}sot552-1_po.pdf)
+SSOP{space}0.5
 0
 10
 10
 Mlab_IO
 TSSOP-14_4.4x5mm_Pitch0.65mm
-14-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
+14-Lead{space}Plastic{space}Thin{space}Shrink{space}Small{space}Outline{space}(ST)-4.4{space}mm{space}Body{space}[TSSOP]{space}(see{space}Microchip{space}Packaging{space}Specification{space}00000049BS.pdf)
+SSOP{space}0.65
 0
 14
 14
 Mlab_IO
 TSSOP-16_4.4x5mm_Pitch0.65mm
-16-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
-SSOP 0.65
+16-Lead{space}Plastic{space}Thin{space}Shrink{space}Small{space}Outline{space}(ST)-4.4{space}mm{space}Body{space}[TSSOP]{space}(see{space}Microchip{space}Packaging{space}Specification{space}00000049BS.pdf)
+SSOP{space}0.65
 0
 16
 16
@@ -253,21 +253,21 @@ VEML6030
 6
 Mlab_IO
 VQFN-20
-SO-8 Surface Mount Small Outline 150mil 8pin Package
-Power Integrations D Package
+SO-8{space}Surface{space}Mount{space}Small{space}Outline{space}150mil{space}8pin{space}Package
+Power{space}Integrations{space}D{space}Package
 0
 32
 21
 Mlab_IO
 VSON-8
-SO-8 Surface Mount Small Outline 150mil 8pin Package
-Power Integrations D Package
+SO-8{space}Surface{space}Mount{space}Small{space}Outline{space}150mil{space}8pin{space}Package
+Power{space}Integrations{space}D{space}Package
 0
 9
 9
 Mlab_IO
 WSON-12
-WSON 12
+WSON{space}12
 DRV8835
 0
 20
